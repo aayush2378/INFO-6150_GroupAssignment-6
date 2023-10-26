@@ -23,3 +23,5 @@ Navbar
 Button
 Columns
 Caraousel
+Form
+Modal
